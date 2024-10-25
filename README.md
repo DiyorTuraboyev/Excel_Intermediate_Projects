@@ -1,6 +1,6 @@
 # Excel_Intermediate_Formulas
-In this repository, I stored my Projects that done with Intermediate Excel Formulas.
-List of Excel Intermediate Formulas Used:
+In this repository, I stored my Projects that done with Intermediate Excel Formulas.<br/>
+List of Excel Intermediate Formulas Used:<br/>
 **Conditional**
 IF function – check if a condition is met
 NESTED IF – Multiple if conditions
